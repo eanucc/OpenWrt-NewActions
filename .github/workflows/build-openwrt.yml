@@ -22,7 +22,7 @@ on:
 #    - cron: 0 8 * * 5
 
 env:
-  REPO_URL: https://github.com/xiaoqingfengATGH/HomeLede.git
+  REPO_URL: https://github.com/xiaoqingfengATGH/HomeLede
   REPO_BRANCH: k5
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: .config
