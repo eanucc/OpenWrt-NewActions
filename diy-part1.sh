@@ -19,4 +19,6 @@ sed -i '$a src-git openclash https://github.com/vernesong/OpenClash.git;master' 
 #sed -i '$a src-git serverchan https://github.com/tty228/luci-app-serverchan.git;master' feeds.conf.default
 #sed -i '$a src-git smartinfo https://github.com/iamaluckyguy/luci-app-smartinfo.git;master' feeds.conf.default
 sed -i '$a src-git infinityfreedom https://github.com/xiaoqingfengATGH/luci-theme-infinityfreedom.git' feeds.conf.default
+sed -i '$a src-git passwall https://github.com/xiaorouji/openwrt-passwall.git;main' feeds.conf.default
+
 
