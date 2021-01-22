@@ -17,7 +17,8 @@
 #sed -i '$a src-git lienol https://github.com/Lienol/openwrt-package' feeds.conf.default
 #sed -i '$a src-git smartinfo https://github.com/iamaluckyguy/luci-app-smartinfo.git;master' feeds.conf.default
 sed -i '$a src-git openclash https://github.com/vernesong/OpenClash.git;master' feeds.conf.default
-sed -i '$a src-git serverchan https://github.com/tty228/luci-app-serverchan.git;master' feeds.conf.default
+#sed -i '$a src-git serverchan https://github.com/tty228/luci-app-serverchan.git;master' feeds.conf.default
 sed -i '$a src-git infinityfreedom https://github.com/xiaoqingfengATGH/luci-theme-infinityfreedom.git;master' feeds.conf.default
 sed -i '$a src-git passwall https://github.com/xiaorouji/openwrt-passwall.git;main' feeds.conf.default
-sed -i '$a src-git adguardhome https://github.com/kongfl888/luci-app-adguardhome.git;master' feeds.conf.default
+#sed -i '$a src-git adguardhome https://github.com/kongfl888/luci-app-adguardhome.git;master' feeds.conf.default
+sed -i '$a src-git cgmdiy https://github.com/eanucc/cgmdiy.git' feeds.conf.default
