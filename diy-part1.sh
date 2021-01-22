@@ -20,6 +20,6 @@ sed -i '$a src-git serverchan https://github.com/tty228/luci-app-serverchan.git;
 #sed -i '$a src-git smartinfo https://github.com/iamaluckyguy/luci-app-smartinfo.git;master' feeds.conf.default
 sed -i '$a src-git infinityfreedom https://github.com/xiaoqingfengATGH/luci-theme-infinityfreedom.git' feeds.conf.default
 sed -i '$a src-git passwall https://github.com/xiaorouji/openwrt-passwall.git;main' feeds.conf.default
-sed -i '$a src-git adguardhome https://github.com/xiaorouji/openwrt-passwall.git;master' feeds.conf.default
+sed -i '$a src-git adguardhome https://github.com/kongfl888/luci-app-adguardhome.git;master' feeds.conf.default
 
 
